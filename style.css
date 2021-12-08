@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#Navi {
+    background-color: #0C0521;
+    color: white;
+}
+
+.Navi-img {
+    width: 200px;
+}
+
+.back-top {
+    background-image: url(https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+.Topheading {
+    margin-top: 25vh;
+    color: white;
+    font-size: 35px;
+    margin-bottom: 5vh;
+}
+
+.Top-head {
+    color: #ffdda9;
+}
+
+.Top-para {
+    color: white;
+}
+
+.btny-top {
+    width: 220px;
+    background-color: #ffdda9;
+    border-radius: 40px;
+    color: #0c0521;
+    border-width: 0px;
+    height: 60px;
+}
+
+.Logos-back {
+    background-color: #f9fbfe;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #323f4b;
+}
+
+.Logos-heading {
+    font-size: 20px;
+}
+
+.Logos-img {
+    width: 100%;
+}
+
+.Design-card-heading {
+    font-size: 20px;
+    color: #323f4b;
+    margin: 15px;
+    text-align: center;
+}
+
+.Design-card-para {
+    color: #7b8794;
+}
+
+.Design-img {
+    width: 50%;
+}
+
+.Tools-back {
+    background-color: #ffffff;
+}
+
+/* 
+.Tools-img {
+    width: 100%;
+} */
+
+.Tools-heading {
+    font-size: 23px;
+    color: #323f4b;
+}
+
+.Tools-para {
+    color: #7b8794;
+}
+
+.Features {
+    font-family: Roboto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #9aa5b1;
+}
+
+.Features-heading {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.Features-card-img {
+    width: 100px;
+    height: 70px;
+}
+
+.Features-card-heading {
+    font-size: 17px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.Features-card-para {
+    font-size: 12px;
+    font-weight: bold;
+}
